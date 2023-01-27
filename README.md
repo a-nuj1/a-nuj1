@@ -3,7 +3,7 @@
 <img align="right" img height="25" src="https://komarev.com/ghpvc/?username=a-nuj1&style=for-the-badge" />
 
 <p>
-  I'm Anuj Kumar Gupta,  2nd year Information Technology Undergraduate at Dr.Ram Manohar Lohia Avadh University. 
+  I'm Anuj Kumar Gupta,  2nd year IT Undergraduate at Dr.Ram Manohar Lohia Avadh University. 
   
   I am interested in Full Stack Web Development . 
   
