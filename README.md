@@ -1,3 +1,5 @@
+
+
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 
 <img align="right" img height="25" src="https://komarev.com/ghpvc/?username=a-nuj1&style=for-the-badge" />
@@ -51,4 +53,24 @@ src= "https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"
 <a href="https://linkedin.com/in/anuj kumar gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anuj kumar gupta" height="30" width="40" /></a>
 <a href="https://instagram.com/a_nuj_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a_nuj_01" height="30" width="40" /></a>
 </p>
+
+
+
+<h3>Languages and Tools:</h3>
+
+<img
+  src="https://img.shields.io/badge/c/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&ogoColor=white"
+/>
+<img
+  src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
+/>
+<img
+  src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"
+/>
+<img
+  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
+/>
+<img
+  src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"
+/>
 
