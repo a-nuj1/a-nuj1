@@ -73,4 +73,11 @@ src= "https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"
 <img
   src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"
 />
+  
+  
+  <h3>📈 My GitHub Stats:-</h3>
+<div>
+  <img width="47%" src="https://streak-stats.demolab.com?user=a-nuj1&theme=onedark" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=a-nuj1_icons=true&theme=onedark" />
+</div>
 
