@@ -78,6 +78,5 @@ src= "https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"
   <h3>📈 My GitHub Stats:-</h3>
 <div>
   <img width="47%" src="https://streak-stats.demolab.com?user=a-nuj1&theme=onedark" />
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=a-nuj1_icons=true&theme=onedark" />
 </div>
 
