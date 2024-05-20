@@ -110,8 +110,10 @@ src= "https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"
   <h3>📈 My GitHub Stats:-</h3>
 <div>
   <img aligb = "left" width="47%" src="https://streak-stats.demolab.com?user=a-nuj1&theme=onedark" />
-<!--     <h3 align = "right"> My Leetcode States: </h3> -->
-   <img align = "right" src="https://leetcard.jacoblin.cool/Anuj_011" />
+</div>
+<h3>📈My LeetCode States:- </h3>
+<div>
+   <img align =  "left" src="https://leetcard.jacoblin.cool/Anuj_011" />
 </div>
 
 
