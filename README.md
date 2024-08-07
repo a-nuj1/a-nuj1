@@ -5,18 +5,18 @@
 <img align="right" img height="25" src="https://komarev.com/ghpvc/?username=a-nuj1&style=for-the-badge" />
 
 <p>
-  I'm Anuj Kumar Gupta, 3rd year student at Dr.Ram Manohar Lohia Avadh University. 
+  I'm Anuj Kumar Gupta, 4th year student at Dr.Ram Manohar Lohia Avadh University. 
   
   I am interested in Full Stack Web Development . 
   
   I also like solving problems and I have a keen interest in competitive programming.
 
-  I actively participates in coding contest my current best rating at LeetCode is 1724 and solved 700+ questions.
+  I actively participates in coding contest my current best rating at LeetCode is 1772 and solved 800+ questions.
   
   There is much to learn, many problems to brainstorm and code, many bugs to fix and many pull requests to make. Happy to connect, work and learn with all the amazing people in the world. 
   
   <h4> Skills: C\C++, OOPS, Data Structures & Algorithm. </h4>
-  <h4> WebDev Skills: HTML, CSS, JS, ReactJs, NodeJs, ExpressJs, MongoDB. </h4>
+  <h4> WebDev Skills: HTML, CSS, JS, ReactJs, NodeJs, ExpressJs, MongoDB, Firebase. </h4>
  <h4> Interests: Open Source, Machine Learning </h4>
 </p>
 
